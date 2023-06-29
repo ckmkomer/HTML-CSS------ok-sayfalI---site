@@ -1,4 +1,4 @@
-# HTML-CSS-----çok-sayfalı---site
+# HtmlCssÇokSayfalıSite
 HTML-CSS çok sayfalı site
 
 ![Ekran görüntüsü 2023-05-05 235709](https://user-images.githubusercontent.com/101353123/236571252-5df69607-e551-4fe2-83f6-bdadb0a4c785.png)
